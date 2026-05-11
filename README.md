@@ -33,6 +33,8 @@ Após concluir um ciclo de quase dois anos como **Desenvolvedor Backend (Estagi�
 * **SCRUM Foundation Professional Certificate (SFPC)**.
 * **IBM Z 101 Professional Certificate**.
 * **IBM Fundamentos de Inteligência Artificial**.
+* **AWS GenAI Practitioner & GenAI Fundamentals**.
+* **AWS Cloud Practitioner & Cloud Fundamentals**.
 
 ---
 

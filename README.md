@@ -1,11 +1,11 @@
-# Olá, eu sou o Pedro 👋
+# Olá, eu sou o Pedro Henrique 👋
 
 **Desenvolvedor Júnior | Java, Spring Boot, Angular e IA**
 Bacharel em Ciência da Computação · Google Student Ambassador · São Paulo, SP
 
-Trabalho com engenharia de software em sistemas de grande volume de dados. Passei quase dois anos na Prodesp, construindo e mantendo sistemas críticos da Fazenda do Estado de São Paulo. Hoje levo a IA para o centro do meu trabalho: integro LLMs a produtos e uso Claude, Claude Code e GitHub Copilot no dia a dia.
+Trabalho com engenharia de software em sistemas de grande volume de dados. Passei dois anos na consolidados na Prodesp, construindo e mantendo sistemas críticos da Fazenda do Estado de São Paulo. Hoje levo a IA para o centro do meu trabalho: integro LLMs a produtos e uso Claude, Claude Code e GitHub Copilot no dia a dia.
 
-Estou aberto a vagas de desenvolvedor júnior.
+Estou aberto a vagas de Desenvolvedor Júnior.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -28,24 +28,6 @@ Um assistente financeiro conversacional. A pessoa escreve "Gastei 120 de luz" e 
 - Stack: React, TypeScript, Tailwind CSS, Shadcn UI e Supabase.
 
 👉 [Ver o repositório](https://github.com/PedroHenrique158/grao-assistente-financeiro)
-
----
-
-## 💼 Experiência
-
-**Prodesp** · Desenvolvedor Java, back-end e front-end (estagiário) · 04/2024 – 12/2025
-
-- **Folha de pagamento do Estado de SP:** serviços em Java e SQL com grande volume de dados, integrados ao Mainframe, com foco na integridade dos registros financeiros.
-- **13º salário do Estado de SP:** rotinas de pagamento, integrações com banco de dados e comunicação com sistemas legados.
-- **Modernização de plataformas do Estado:** APIs REST e demonstrativos visuais com PrimeFaces para portais internos e para clientes da Fazenda.
-- **Entrega e qualidade:** Docker, OpenShift, Jenkins e GitHub Actions no deploy; scripts automatizados e apoio em testes unitários.
-- **Método:** Scrum, com atenção à segurança dos dados do Estado.
-
----
-
-## 📚 Em andamento
-
-**Formação Ada + Cognizant** · Engenharia de IA aplicada ao sistema financeiro (mainframe, z/OS, COBOL, JCL e DB2) · 10/2026 – 12/2026
 
 ---
 

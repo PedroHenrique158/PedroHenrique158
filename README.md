@@ -14,6 +14,13 @@ Quando surgiam incidentes, eu investigava a causa e trabalhava na correção. Ta
 
 Protótipo de assistente financeiro que explora o registro e a consulta de despesas por texto ou voz. Escrevi o documento de requisitos do produto (PRD) e usei o Lovable para prototipar o fluxo com TypeScript e Supabase.
 
+
+### [Budgeting API · Java e Spring AI (Itaú/DIO)](https://github.com/PedroHenrique158/dio-spring-boot-learning-track/blob/main/05-spring-ai/README.md)
+
+API de orçamento que recebe áudio e usa IA para registrar ou consultar transações. Na entrega do desafio, acrescentei uma regra na entidade `Transaction`: **valores zero ou negativos são rejeitados antes de chegar ao banco**, tanto em requisições REST quanto em ações iniciadas pela IA.
+
+**Tecnologias:** Java 25, Spring Boot 4, Spring AI e MySQL.
+
 ## Tecnologias
 
 - **Backend e dados:** Java, Spring Boot, SQL, APIs REST e integração com sistemas legados.

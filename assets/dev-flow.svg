@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="208" viewBox="0 0 960 208" role="img" aria-labelledby="t d">
+<title id="t">Do código ao produto</title>
+<desc id="d">Fluxo ilustrado: Código, Integrações e Produtos.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#172544"/><stop offset="1" stop-color="#10182e"/></linearGradient>
+  <linearGradient id="path"><stop stop-color="#55dfde"/><stop offset=".5" stop-color="#8daeff"/><stop offset="1" stop-color="#aa8fff"/></linearGradient>
+</defs>
+<style>
+  .packet,.halo {opacity:0}
+  @media (prefers-reduced-motion:no-preference) {
+    .packet {animation: travel 2.8s cubic-bezier(.46,.12,.51,.89) 1}
+    .packet.p2 {animation-delay:.36s}
+    .packet.p3 {animation-delay:.72s}
+    .halo {animation: node 1.35s ease-out 1}
+    .halo.h2 {animation-delay:1.18s}
+    .halo.h3 {animation-delay:2.22s}
+    @keyframes travel {0%{transform:translateX(0);opacity:0} 12%,81%{opacity:1} 100%{transform:translateX(592px);opacity:0}}
+    @keyframes node {0%,100%{opacity:0} 35%{opacity:.72}}
+  }
+</style>
+<rect x="1" y="1" width="958" height="206" rx="20" fill="url(#bg)" stroke="#496482" stroke-width="2"/>
+<text x="43" y="55" fill="#eff7ff" font-family="system-ui,sans-serif" font-size="29" font-weight="700">Do código ao produto</text>
+<g fill="#182b49" stroke="#456080" stroke-width="1.5"><rect x="43" y="79" width="280" height="63" rx="12"/><rect x="340" y="79" width="280" height="63" rx="12"/><rect x="637" y="79" width="280" height="63" rx="12"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+  <path d="M77 103l-8 8 8 8m14-16 8 8-8 8m-4-20-6 24" stroke="#55dfde"/>
+  <path d="M376 111h24m-21-6 5 6-5 6m17-12-5 6 5 6" stroke="#8daeff"/>
+  <path d="M669 105l12-6 12 6v14l-12 6-12-6zm0 0 12 6 12-6m-12 6v14" stroke="#aa8fff"/>
+</g>
+<g fill="#eef6ff" font-family="system-ui,sans-serif" font-size="24" font-weight="650"><text x="118" y="120">Código</text><text x="416" y="120">Integrações</text><text x="711" y="120">Produtos</text></g>
+<path d="M184 172h592" fill="none" stroke="#425a80" stroke-width="3" stroke-linecap="round"/>
+<path d="M184 172h592" fill="none" stroke="url(#path)" stroke-width="1.5" stroke-linecap="round"/>
+<g stroke-width="1.7" fill="none"><circle class="halo" cx="184" cy="172" r="13" stroke="#55dfde"/><circle class="halo h2" cx="480" cy="172" r="13" stroke="#8daeff"/><circle class="halo h3" cx="776" cy="172" r="13" stroke="#aa8fff"/></g>
+<circle cx="184" cy="172" r="4.4" fill="#55dfde"/><circle cx="480" cy="172" r="4.4" fill="#8daeff"/><circle cx="776" cy="172" r="4.4" fill="#aa8fff"/>
+<circle class="packet" cx="184" cy="172" r="6.5" fill="#90fff9"/><circle class="packet p2" cx="184" cy="172" r="5.5" fill="#a9bcff"/><circle class="packet p3" cx="184" cy="172" r="4.5" fill="#cdbaff"/>
+</svg>
